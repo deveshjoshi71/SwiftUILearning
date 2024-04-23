@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "220px-Kavi_Kumar_Azad_at_TMKOC's_1000_episode_celebration_party@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "220px-Kavi_Kumar_Azad_at_TMKOC's_1000_episode_celebration_party@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "220px-Kavi_Kumar_Azad_at_TMKOC's_1000_episode_celebration_party@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
